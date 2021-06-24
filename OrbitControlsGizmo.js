@@ -2,7 +2,7 @@ import {
   Vector2,
   Vector3,
   Matrix4
-} from 'https://threejs.org/build/three.module.js';
+} from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.module.js';
 
 class OrbitControlsGizmo {
 	constructor(orbitControls, options) {
