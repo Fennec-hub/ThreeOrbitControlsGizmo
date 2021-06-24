@@ -3,7 +3,7 @@
 This library is the continuation of [jrj2211](https://github.com/jrj2211)/**[three-orientation-gizmo](https://github.com/jrj2211/three-orientation-gizmo)** work, a lightweight **Blender** like orientation **gizmo** for **Three.js** using an internal HTML5 Canvas, adapted here to work in tandem with a slightly modified version of **`THREE.OrbitControls`**, in addition to [jrj2211](https://github.com/jrj2211)`s work you can now change the camera angles by dragging the gizmo or select an axis by clicking on it.
 
 <p align="center">
-  <img src="./demo/ThreeObitControlsGizmo" />
+  <img src="https://raw.githubusercontent.com/Millennium-Fennec/ThreeOrbitControlsGizmo/master/demo/ThreeObitControlsGizmo.gif" />
 </p>
 
 ### `THREE.OrbitControls` modifications :
