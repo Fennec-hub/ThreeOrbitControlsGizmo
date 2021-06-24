@@ -29,3 +29,18 @@ body {
     float: left !important;
     margin-left: 2em !important;
 }
+
+a{
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+    width: 3em;
+    height: 3em;
+    overflow: hidden;
+    border-radius: 100%;
+}
+
+img{ 
+    width: 100%;
+    height: 100%;
+}
