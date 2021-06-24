@@ -49,6 +49,14 @@ document.body.appendChild(controlsGizmo.domElement);
 | className | "obit-controls-gizmo" | the `domElement` class name |
 | colors | `{ x: ["#f73c3c", "#942424"], y: ["#6ccb26", "#417a17"], z: ["#178cf0", "#0e5490"] }` | Each axis [foreground, background] colors |
 
+### Properties
+- `.lock` Boolean : Lock all axes
+- `.lockX` Boolean : Lock `X` axis
+- `.lockY` Boolean : Lock `Y` axis
+
+### Methods
+- `.update()` : Update the gizmo orientation
+- `.dispose()` : Dispose of the gizmo, remove the canvas from the dom, remove all event listeners
 
 ### Styling 
 To get a **Blender** like  orientation gizmo style and effects add this to your css :
