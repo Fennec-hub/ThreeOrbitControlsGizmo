@@ -1,5 +1,5 @@
 import * as THREE from "https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.module.js";
-import { GUI } from "https://threejs.org/examples/jsm/libs/dat.gui.module.js";
+import { GUI } from "https://unpkg.com/dat.gui@0.7.7/build/dat.gui.module.js";
 
 import { OrbitControls } from "../OrbitControls.js";
 import { OrbitControlsGizmo } from "../OrbitControlsGizmo.js";
