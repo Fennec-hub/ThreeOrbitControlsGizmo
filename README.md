@@ -1,3 +1,6 @@
+# ⚠️ DEPRECATED
+This repository is no longer supported, please consider using the official [ThreeJS viewHelper](https://github.com/mrdoob/three.js/blob/master/examples/jsm/helpers/ViewHelper.js). If you need a more interactive version, I recommend checking out this [thread](https://discourse.threejs.org/t/interactive-viewhelper/46246) along with the [demo](https://codesandbox.io/s/xenodochial-aryabhata-pcdb5v?file=/src/ViewHelper.js) and the [code](https://github.com/Fennec-hub/viewHelper). Thanks for your consideration.
+
 # Three Orbit Controls Gizmo
 
 This library is the continuation of **[jrj2211](https://github.com/jrj2211/three-orientation-gizmo)**'s work, a lightweight **Blender** like orientation **gizmo** for **Three.js** using an internal HTML5 Canvas, adapted here to work in tandem with a slightly modified version of **`THREE.OrbitControls`**, it follow the orbit controls changes and you can now change the camera angle by dragging the gizmo or select an axis by clicking on it.
