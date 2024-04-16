@@ -1,5 +1,9 @@
-# ⚠️ DEPRECATED
-This repository is no longer supported, please consider using the official [ThreeJS viewHelper](https://github.com/mrdoob/three.js/blob/master/examples/jsm/helpers/ViewHelper.js). If you need a more interactive version, I recommend checking out this [thread](https://discourse.threejs.org/t/interactive-viewhelper/46246) along with the [demo](https://codesandbox.io/s/xenodochial-aryabhata-pcdb5v?file=/src/ViewHelper.js) and the [code](https://github.com/Fennec-hub/viewHelper). Thanks for your consideration.
+# ⚠️ DEPRECATED ⚠️
+🚀 **New Repository:** We've replaced this version with a modernized one. Please check out [three-viewport-gizmo](https://github.com/Fennec-hub/three-viewport-gizmo) for the latest updates and improvements.
+
+📢 **Why the change?** We've upgraded to a more advanced version to provide a better experience and enhanced features. Please use the new repository for all future usage and contributions.
+
+🙏 **Thanks for your consideration!** We appreciate your support. If you have any questions or need assistance, don't hesitate to reach out.
 
 # Three Orbit Controls Gizmo
 
